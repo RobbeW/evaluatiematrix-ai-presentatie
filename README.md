@@ -8,7 +8,7 @@ Gebouwd met HTML, vanilla JavaScript en html2canvas voor export naar PNG.
 ## Live demo
 
 Zie:  
-[https://<jouw-gebruikersnaam>.github.io/evaluatiematrix-ai-presentatie/](https://robbew.github.io/evaluatiematrix-ai-presentatie/)
+[https://robbew.github.io/evaluatiematrix-ai-presentatie/](https://robbew.github.io/evaluatiematrix-ai-presentatie/)
 
 ---
 
